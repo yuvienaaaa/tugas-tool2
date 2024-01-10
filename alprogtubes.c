@@ -241,4 +241,4 @@ int main() {
 
 
 //Billing to txt
-//...
+ini adalah tugas tool yang diberikan
